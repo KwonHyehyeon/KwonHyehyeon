@@ -1,6 +1,6 @@
 ### Hi there 👋   
 
-<img src="https://capsule-render.vercel.app/api?type=waving&width=100%&color=auto&height=200&section=header&text=noeyheyh&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=noeyheyh&fontSize=90" />
 ### 👩‍💻: 프로그래밍 & 마크업 언어   
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
