@@ -6,7 +6,8 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-### <h3 aling="center">👩‍💻: 프로그래밍 & 마크업 언어</h3>
+<div align="center">
+  ### <h3 aling="center">👩‍💻: 프로그래밍 & 마크업 언어</h3>
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
@@ -40,3 +41,5 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonHyehyeon&show_icons=true&theme=radical)
+
+</div>
