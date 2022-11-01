@@ -1,6 +1,5 @@
-### Hi there 👋   
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=noeyheyh&fontSize=60" />
+<h2 align="center">🎀 ➰ Welcome to my coding space ➰ 🎀</h2>
 <img src="https://images.unsplash.com/photo-1583091618471-56becbdb1c00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1864&q=80&h=800"/>
 
 <p align="center">
