@@ -6,7 +6,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-### 👩‍💻: 프로그래밍 & 마크업 언어   
+### <h3 aling="center">👩‍💻: 프로그래밍 & 마크업 언어</h3>
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
@@ -18,7 +18,7 @@
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a>
 </p>   
-### 🧰: 프레임워크 & 라이브러리   
+###  <h3 aling="center">🧰: 프레임워크 & 라이브러리</h3>
 <p>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"></a>
